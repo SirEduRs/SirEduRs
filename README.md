@@ -1,4 +1,4 @@
-<h1 align="center">Meu Github ✨</h1>
+<h1 align="center">✨ Meu Github ✨</h1>
 
 👋🏽 Olá, meu nome é **Eduardo Rodrigues**. Sou um **Back-End Developer** e um entusiasta da tecnologia.   
 
