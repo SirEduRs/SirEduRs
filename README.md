@@ -2,9 +2,6 @@
 
 👋🏽 Olá, meu nome é **Eduardo Rodrigues**. Sou um **Back-End Developer** e um entusiasta da tecnologia.   
 
-![Instagram](https://img.shields.io/badge/siredurs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Telegram](https://img.shields.io/badge/siredurs-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 ## 💻 Habilidades:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
