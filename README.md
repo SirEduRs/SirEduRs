@@ -20,3 +20,7 @@
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SirEduRs&theme=synthwave&show_icons=true&locale=pt-br&border_radius=15&hide_rank=true"/>
+
+<p align="center">
+<img src="https://badges.pufler.dev/visits/SirEduRs/SirEduRs"/>
+</p>
